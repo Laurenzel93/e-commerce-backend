@@ -1,5 +1,5 @@
 # e-commerce-backend
-
+Video Walkthrough Link: https://drive.google.com/file/d/1pYo1e12QqZBeiVtj_uRPXItHqE6eqUKq/view?usp=sharing <br>
 GitHub Repo: https://github.com/Laurenzel93/e-commerce-backend
 
 ## User Story
@@ -28,5 +28,3 @@ THEN I am able to successfully create, update, and delete data in my database
 
 
 ![Screenshot](assets/e-commerce-backend1.png)
-![Screenshot](assets/e-commerce-backend2.png)
-![Screenshot](assets/e-commerce-backend3.png)
